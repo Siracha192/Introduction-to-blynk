@@ -26,4 +26,7 @@ upload ขึ้น youtube เป็น video ที่ดูได้สำห
 
 ส่ง link มาเป็น pull request
 
+Youtube:https://youtu.be/_Ldy5CLCO8c
+
+Repo
 
